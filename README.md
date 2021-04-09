@@ -2,4 +2,4 @@
 Domain
 
 ---
-### [github/gohx](https://github.com/gohx) | [gohx/domain](https://github.com/gohx/domain)
+### [![GitHub GoHX](https://img.shields.io/github/followers/gohx?label=follow+me&style=social)](https://github.com/gohx)
