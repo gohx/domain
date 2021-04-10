@@ -13,10 +13,9 @@ type (
 )
 
 func NewDomain(domain string) *Domain {
-	now := time.Now()
 	return &Domain{
 		Domain:   domain,
-		CreateAt: now,
+		CreateAt: time.Now(),
 	}
 }
 
